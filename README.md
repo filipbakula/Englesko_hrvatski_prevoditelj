@@ -1,5 +1,4 @@
-# Englesko_hrvatski_prevoditelj_dokumenata
-Mala python skripta kreirana za vlastite potrebe koja je sposobna prevesti do 10 stranica word dokumenta i pretvoriti tekst iz word-a u .txt datoteku. Objavljujem javno zato što imenom i prezimenom znam, onako na prvu, najmanje 20 ljudi kojima bi mogla biti korisna
+# Upute za korištenje
 
 
 1. instalirati googletrans
